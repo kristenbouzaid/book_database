@@ -205,7 +205,6 @@ def app():
                 \rNumber of Python Books: {python_books}''')
             input('\nPress enter to return to the main menu.')
 
-
         else:
             print('GOODBYE')
             app_running = False
